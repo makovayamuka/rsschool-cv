@@ -10,7 +10,7 @@
 
 ## Skills
 - HTML
-- CSSпшк
+- CSS
 - JavaScript
 - Git
 
@@ -22,11 +22,11 @@
 
 ### First Bit (Sochi) (date - date)
 - **Description:** Project manager
-- **Responsibilities:**
+- **Responsibilities:** Managed and coordinated project activities, ensuring successful implementation.
 
 ### FileLAB (Sochi) (2019 - 2022)
 - **Position:** Owner
-- **Responsibilities:**
+- **Responsibilities:** overseeing project execution, managing design teams, liaising with clients.
 
 ## Languages
 - English - B1 
@@ -37,8 +37,8 @@
 - Coursera from Meta UX/UI Design 
 
 ## Hobbies
-- Video game
-- Table Game
+- Video games
+- Table gameames
 - Hiking 
 
 ## Links
