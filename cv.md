@@ -2,6 +2,8 @@
 
 # Kristina Lapo
 
+<img src="mem.JPG" alt="mem" width="100" height="100">
+
 ## Contact Information
 - **Location:** UK, London
 - **Phone:** +44 7517557565
@@ -45,3 +47,4 @@
 - https://github.com
 - https://linkedin.com
 - https://t.me/@makovayamuka
+
