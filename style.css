@@ -1,0 +1,17 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 2px;
+    margin: 0;
+    padding: 100px;
+    background-color: #f4f4f4;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
