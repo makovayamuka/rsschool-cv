@@ -14,4 +14,34 @@ body {
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
+
+
+
+  img {
+    margin-left: 20px;
+  }
+
+  h1 {
+    color: #ad004e;
+    margin-left: 20px;
+  }
+
+  h2 {
+    color: #000000;
+    margin-left: 20px;
+  }
   
+  ul {
+    list-style-type: square;
+    padding: 10;
+  }
+  
+
+  li {
+    margin-bottom: 10px;
+  }
+  
+
+  p {
+    margin-bottom: 1px;
+  }
